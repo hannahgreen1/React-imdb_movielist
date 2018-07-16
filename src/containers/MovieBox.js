@@ -12,7 +12,11 @@ class MovieBox extends React.Component{
     {
       title:"Cinderella",
       text:"Princess films"
-    }]
+    },
+  {
+    title:"Little Mermaid",
+    text:"A Mermaid gets confused about what she is, and loses her self respect to get a man to like her"
+  }]
     }
   }
 
